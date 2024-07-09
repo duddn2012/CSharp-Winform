@@ -1,0 +1,10 @@
+C:\Users\SSAFY\source\repos\prac1\prac1\bin\Debug\prac1.exe.config
+C:\Users\SSAFY\source\repos\prac1\prac1\bin\Debug\prac1.exe
+C:\Users\SSAFY\source\repos\prac1\prac1\bin\Debug\prac1.pdb
+C:\Users\SSAFY\source\repos\prac1\prac1\obj\Debug\prac1.csprojAssemblyReference.cache
+C:\Users\SSAFY\source\repos\prac1\prac1\obj\Debug\prac1.Properties.Resources.resources
+C:\Users\SSAFY\source\repos\prac1\prac1\obj\Debug\prac1.csproj.GenerateResource.cache
+C:\Users\SSAFY\source\repos\prac1\prac1\obj\Debug\prac1.csproj.CoreCompileInputs.cache
+C:\Users\SSAFY\source\repos\prac1\prac1\obj\Debug\prac1.exe
+C:\Users\SSAFY\source\repos\prac1\prac1\obj\Debug\prac1.pdb
+C:\Users\SSAFY\source\repos\prac1\prac1\obj\Debug\prac1.Form1.resources
